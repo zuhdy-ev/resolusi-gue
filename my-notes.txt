@@ -9,5 +9,7 @@
     - HTML
     - CSS
     - Javascript
+        - Vue
+        - React
     - PHP Frameworks
   ===
