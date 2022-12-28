@@ -1,0 +1,4 @@
+- Salah satu kekurangan GitHub gratis yaitu ketika akan bekerja secara tim, jumlah dari kolaboratornya dibatasi hanya tiga orang.
+- Setelan privasi
+    - Publik: seluruh orang dapat melihat proyek yang kita buat.
+    - Private: hanya kita dan tim kita saja yang dapat melihat proyek yang kita buat.
