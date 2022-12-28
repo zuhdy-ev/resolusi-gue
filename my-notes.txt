@@ -9,5 +9,5 @@
     - HTML
     - CSS
     - Javascript
-    - PHP Frameworks
+    - Python
   ===
