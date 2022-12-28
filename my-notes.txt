@@ -4,3 +4,10 @@
     - Private: hanya kita dan tim kita saja yang dapat melihat proyek yang kita buat.
 - “Add a README file”
     - Ketika kita membuat repository, file README ini akan menjelaskan tentang repo yang kita buat tersebut. Penjelasan dapat berupa penjelasan singkat maupun detail, tutorial menggunakan dan/atau meng-install proyek, dsb.
+- Bahan contoh belajar merging:
+  ===
+    - HTML
+    - CSS
+    - Javascript
+    - PHP Frameworks
+  ===
